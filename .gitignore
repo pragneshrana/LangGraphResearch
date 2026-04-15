@@ -1,0 +1,28 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Backend — Python
+.venv/
+__pycache__/
+*$py.class
+*.py[cod]
+.env
+*.egg
+*.egg-info/
+backend/build/
+backend/dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Frontend — Node / Vite
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store

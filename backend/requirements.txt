@@ -1,0 +1,15 @@
+fastapi
+jinja2
+uvicorn[standard]
+langgraph
+langsmith
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-openai
+langchain-ollama
+langchain-google-genai
+langchain-google-genai
+langchain-groq
+langchain-tavily
