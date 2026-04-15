@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Monorepo (Node / OS / local env)
+frontend/node_modules/
+.DS_Store
+.env.local
+.env.*.local
